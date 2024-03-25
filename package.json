@@ -1,6 +1,6 @@
 {
   "name": "rukkiecodes-expo-fonts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "fonts library for expo react-native projects",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,7 @@
     "ui-design",
     "typography",
     "rukkiecodes",
-    "Terry Amagboro"
+    "Terry Amagboro",
+    "rukkiecodes-expo-fonts"
   ]
 }
