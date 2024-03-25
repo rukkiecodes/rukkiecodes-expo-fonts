@@ -1,6 +1,6 @@
 {
   "name": "rukkiecodes-expo-fonts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "fonts library for expo react-native projects",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/rukkiecodes/rukkiecodes-expo-fonts/issues"
   },
-  "homepage": "https://github.com/rukkiecodes/rukkiecodes-expo-fonts#readme"
+  "homepage": "https://github.com/rukkiecodes/rukkiecodes-expo-fonts#readme",
+  "keywords": [
+    "expo",
+    "react-native",
+    "fonts",
+    "custom-fonts",
+    "expo-font",
+    "font-loading",
+    "react-native-fonts",
+    "mobile-development",
+    "ui-design",
+    "typography",
+    "rukkiecodes",
+    "Terry Amagboro"
+  ]
 }
